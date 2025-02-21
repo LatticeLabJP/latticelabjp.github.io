@@ -20,8 +20,8 @@
 ## メンバー
 ### ML research team
 - Masaki Adachi (足立　真輝) [Homepage](https://www.masaki-adachi.com)
-- Alan Chau (NTU assistant professor) [Homepage](https://chau999.github.io)
-- Masahiro Fujisawa (藤澤 将広) (Osaka University assistant professor) [Homepage](https://msfuji0211.github.io)
+- Alan Chau (NTU) [Homepage](https://chau999.github.io)
+- Masahiro Fujisawa (藤澤 将広) (Osaka University; RIKEN AIP) [Homepage](https://msfuji0211.github.io)
 
 ### Materials science team
 - Yuta Suzuki (鈴木 雄太) [Homepage](https://suzuki.phd)
