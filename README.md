@@ -24,7 +24,7 @@
 - Masahiro Fujisawa (藤澤 将広) (Osaka University assistant professor) [Homepage](https://msfuji0211.github.io)
 
 ### Materials science team
-- Yuta Suzuki (鈴木　雄太) [Homepage](https://suzuki.phd)
+- Yuta Suzuki (鈴木 雄太) [Homepage](https://suzuki.phd)
 
 ## 最近の研究成果
 - 
