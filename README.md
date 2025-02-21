@@ -20,8 +20,8 @@
 ## メンバー
 - Masaki Adachi (足立　真輝) [Homepage](https://www.masaki-adachi.com)
 - Yuta Suzuki (鈴木　雄太) [Homepage](https://suzuki.phd)
-- Alan Chau [Homepage](https://chau999.github.io)
-- Masahiro Fujisawa (藤澤 将広) [Homepage](https://msfuji0211.github.io)
+- Alan Chau (NTU assistant professor) [Homepage](https://chau999.github.io)
+- Masahiro Fujisawa (藤澤 将広) (Osaka University assistant professor) [Homepage](https://msfuji0211.github.io)
 
 ## 最近の研究成果
 - 
