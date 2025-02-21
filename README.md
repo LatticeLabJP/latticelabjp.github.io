@@ -18,14 +18,14 @@ Register the following mailing list to keep updated!<br>
 [Google forms](https://docs.google.com/forms/d/e/1FAIpQLScgKzrti_McQSqJLYmWDl6ewwmeIEcbufYzEM5c-3ehLyoSRA/viewform?usp=sharing)
 <br>
 
-## メンバー
+## Members: メンバー
 ### ML research team
-- Masaki Adachi (足立　真輝) [Homepage](https://www.masaki-adachi.com)
-- Alan Chau (NTU) [Homepage](https://chau999.github.io)
-- Masahiro Fujisawa (藤澤 将広) (Osaka University; RIKEN AIP) [Homepage](https://msfuji0211.github.io)
+- Masaki Adachi (足立　真輝): PI [Homepage](https://www.masaki-adachi.com)
+- Alan Chau (NTU): Visiting Professor [Homepage](https://chau999.github.io)
+- Masahiro Fujisawa (藤澤 将広) (Osaka University; RIKEN AIP): Visiting Professor [Homepage](https://msfuji0211.github.io)
 
 ### Materials science team
-- Yuta Suzuki (鈴木 雄太) [Homepage](https://suzuki.phd)
+- Yuta Suzuki (鈴木 雄太): PI [Homepage](https://suzuki.phd)
 
 ## 最近の研究成果
 - 
