@@ -1,6 +1,9 @@
 # Lattice Lab
 ## 活動内容
+- 材料発見のためのAI/MLアルゴリズム研究
 
+## 場所
+東京都日本橋周辺
 
 ## インターン採用
 2025年夏からインターン募集<br>
@@ -13,10 +16,6 @@
 [Google forms](https://docs.google.com/forms/d/e/1FAIpQLScgKzrti_McQSqJLYmWDl6ewwmeIEcbufYzEM5c-3ehLyoSRA/viewform?usp=sharing)
 <br>
 随時情報をアップデートしていきます。
-
-## 客員研究員募集
-
-
 
 ## 最近の研究成果
 - 
