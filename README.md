@@ -1,11 +1,10 @@
 # Lattice Lab
 ## Research: AI4Science
 - AI for materials discovery (材料発見のためのAI/ML手法開発)
-- Human-AI collaboration for science　（AIと専門家の協業手法開発）
+- Human-AI collaboration for science (AIと専門家の協業手法開発)
 
 ## Location (場所)
-Nihombashi, Tokyo<br>
-東京都日本橋周辺
+Nihonbashi, Tokyo, Japan. 東京都日本橋周辺
 
 ## Internship opportunity (インターン採用)
 - Term: 3-6 months 3ヶ月〜半年の長期インターン (相談次第)
