@@ -14,7 +14,7 @@ Topics<br>
 - Visa support: Yes
 - Residential support: Yes (in Tokyo)
 
-Register the following mailing list to keep updated!
+Register the following mailing list to keep updated!<br>
 興味がある人はぜひ以下のGoogle formからメーリングリストに登録をお願い致します。<br>
 [Google forms](https://docs.google.com/forms/d/e/1FAIpQLScgKzrti_McQSqJLYmWDl6ewwmeIEcbufYzEM5c-3ehLyoSRA/viewform?usp=sharing)
 <br>
