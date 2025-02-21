@@ -1,4 +1,6 @@
 # Lattice Lab
+Lattice Lab is co-led by Masaki and Yuta to advance science.<br>
+
 ## Research: AI4Science
 - AI for materials discovery (材料発見のためのAI/ML手法開発)
 - Human-AI collaboration for science　（AIと専門家の協業手法開発）
