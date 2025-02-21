@@ -20,7 +20,7 @@ Register the following mailing list to keep updated!<br>
 
 ## Members: メンバー
 ### ML research team
-- Masaki Adachi (足立　真輝): PI [[Profile]](https://www.masaki-adachi.com)
+- Masaki Adachi (足立 真輝): PI [[Profile]](https://www.masaki-adachi.com)
 - Alan Chau (NTU): Visiting Professor [[Profile]](https://chau999.github.io)
 - Masahiro Fujisawa (藤澤 将広) (Osaka University; RIKEN AIP): Visiting Professor [[Profile]](https://msfuji0211.github.io)
 
