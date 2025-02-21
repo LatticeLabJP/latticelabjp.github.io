@@ -9,6 +9,11 @@
 - 内容例２：科学者とAIの共同作業のためのインターフェース研究
 
 興味がある人はぜひ以下のGoogle formからメーリングリストに登録をお願い致します。
+[Google forms](https://docs.google.com/forms/d/e/1FAIpQLScgKzrti_McQSqJLYmWDl6ewwmeIEcbufYzEM5c-3ehLyoSRA/viewform?usp=sharing)
 随時情報をアップデートしていきます。
 
 ## 客員研究員募集
+
+
+
+## 
