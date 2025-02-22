@@ -25,7 +25,3 @@ Register the following mailing list to keep updated!<br>
 
 ### Materials science team
 - Yuta Suzuki (鈴木 雄太): PI [[Profile]](https://suzuki.phd)
-
-## 最近の研究成果
-- 
-- 
