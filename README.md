@@ -8,7 +8,7 @@ Nihonbashi, Tokyo, Japan. 東京都日本橋周辺
 
 ## Internship opportunity (インターン採用)
 - Term: 3-6 months 3ヶ月〜半年の長期インターン (相談次第)
-- Salary: good
+- Salary: competitive
 - Visa support: Yes
 - Residential support: Yes (in Tokyo)
 
