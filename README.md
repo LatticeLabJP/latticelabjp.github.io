@@ -20,7 +20,7 @@ Register the following mailing list to keep updated!<br>
 ## Members: メンバー
 ### ML research team
 - Masaki Adachi (足立 真輝): PI [[Profile]](https://www.masaki-adachi.com)
-- Siu Lun Chau (NTU): Visiting Professor [[Profile]](https://chau999.github.io)
+- Siu Lun Chau (NTU): External Collaborator [[Profile]](https://chau999.github.io)
 - Masahiro Fujisawa (藤澤 将広) (Osaka University; RIKEN AIP): Visiting Professor [[Profile]](https://msfuji0211.github.io)
 - Krikamol Muandet (CISPA): External Collaborator [[Profile]](http://www.krikamol.org)
 - Michael A Osborne (University of Oxford): External Collaborator [[Profile]](https://www.robots.ox.ac.uk/~mosb/)
